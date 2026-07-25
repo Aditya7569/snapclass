@@ -1,0 +1,17 @@
+# Utilities
+numpy #
+pandas #dataframes
+
+#FACE RECOGNITION
+scikit-learn #svm-for face classification
+dlib-bin #face detection
+git+https://github.com/ageitgey/face_recognition_models
+setuptools<70.0.0 #helps to install the non python packages
+
+supabase
+bcrypt
+
+segno
+pillow
+
+streamlit
